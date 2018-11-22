@@ -1,3 +1,16 @@
-# Welcome to my blog
+# gangok's bloG
 
-I'm glad you are here. I plan to talk about ...
+hello gangok!
+
+ - list
+ - item
+ - blah
+ 
+```c
+#include<stdio.h>
+
+int main() {
+  printf("hello\n");
+  return 0;
+}
+```
