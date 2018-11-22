@@ -1,6 +1,7 @@
 # gangok's bloG
 
 hello gangok!
+안녕하세요 강옥입니다.
 
  - list
  - item
